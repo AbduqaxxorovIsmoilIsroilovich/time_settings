@@ -5,8 +5,21 @@
 }
 
 .box {
-    width: 400px;
-    height: 200px;
-    background-color: black;
-    
+    display: none;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 250px;
+    background-color: aqua;
+}
+
+span {
+    position: absolute;
+    margin-left: 0;
+    cursor: pointer;
+    color: #3e3f4e;
+}
+
+p {
+    margin: 50px;
 }
